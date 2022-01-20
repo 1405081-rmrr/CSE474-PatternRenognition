@@ -1,0 +1,5 @@
+Number of hidden Layer 1 Accuracy  100.0
+Number of hidden Layer 2 Accuracy  100.0
+Number of hidden Layer 3 Accuracy  100.0
+Number of hidden Layer 4 Accuracy  100.0
+Number of hidden Layer 5 Accuracy  100.0
