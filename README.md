@@ -1,7 +1,7 @@
 # CSE474-PatternRenognition
 
 # Offline 1 is on 3 algorithms. 
-<pr>   <code>Basic Perceptron,Pocket Perceptron and Reward-Punishment Perceptron </code>.</pr> In text file there are 5 features and it is 2 classification problem. Code will be worked for any number of features.
+<pr>   <code> <h4>Basic Perceptron,Pocket Perceptron and Reward-Punishment Perceptron </code>.</pr> In text file there are 5 features and it is 2 classification problem. Code will be worked for any number of features. </h4>
 # To generate csv file,just add the feature name 
 
 # Offline 2 is on Multiple Hidden Layer 
