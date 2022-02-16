@@ -9,7 +9,7 @@
 
 # Offline 3 is on Template Matching. 
 
-<h4> Here p=3 is assumed. **Exhaustive Search**, **Two Dimensional Logarithmic Search** and **Hierarchical Search** approach is Done. </h4>
+<h4> Here p=3 is assumed. <strong>Exhaustive Search</strong>, <strong>Two Dimensional Logarithmic Search</strong> and <strong>Hierarchical Search</strong> approach is Done. </h4>
 
 # Offline 4 is on Channel Equilizer
 
